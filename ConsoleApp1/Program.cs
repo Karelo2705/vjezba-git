@@ -7,7 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Karlo je caca");
+            Console.WriteLine("Karlo je caca"); 
+            Console.WriteLine("Karlo je caca 2, electric bogaloo");
         }
     }
 }
