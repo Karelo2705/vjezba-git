@@ -9,6 +9,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Karlo je caca"); 
             Console.WriteLine("Karlo je caca 2");
+            Console.WriteLine("Jos jedna linija");
+
         }
     }
 }
